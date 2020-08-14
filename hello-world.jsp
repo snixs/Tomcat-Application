@@ -11,7 +11,7 @@
   </head>
   <body>
     <center> 
-      <font color="gray" size="7">  Hello wrld!  </font> 
+      <font color="gray" size="7">  Hello World!  </font> 
     </center>
   </body>
 </html>
