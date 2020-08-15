@@ -10,7 +10,7 @@
   </head>
   <body>
     <center> 
-      <font color="gray" size="7">  Hello Wold!  </font> 
+      <font color="gray" size="7">  Hello Wld!  </font> 
     </center>
   </body>
 </html>
